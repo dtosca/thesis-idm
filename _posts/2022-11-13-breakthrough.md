@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "A conceptual breakthrough"
-date:   2022-11-13 1:00:00 -0500
+date:   2022-11-13 1:01:00 -0500
 comments: true
 ---
 
 Hello fellow rock floaters!
 
-After consulting with various sources and brainstorming ideas, I still wasn’t quite sure of my thesis. Something was missing. I had a great conversation with my wife, and I wrote my usual mid-day inspiration breakthrough email to my undergraduate advisor:
+After consulting with various sources and brainstorming ideas, I still wasn’t quite sure of my thesis. Something was missing. I had a great conversation with my wife that led to a breakthrough. And, of course, I wrote a mid-day-inspiration-breakthrough email to my undergraduate advisor, shown below:
 
 “I had a conceptual breakthrough in my thesis yesterday that I wanted to share bc if i don't put it into words it'll melt into the ether.
 
