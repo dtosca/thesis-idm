@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Diana ([pronouns they/them](https://lgbtlifecenter.org/pronouns/)).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome to my blog for my master's thesis in [Integrated Design and Media at New York University](https://engineering.nyu.edu/academics/programs/integrated-design-media-ms-campus).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here are all my [class blogs](https://dtosca.github.io/).
+
+And my main [portfolio website](https://dianatosca.com/).
+
+  * * *
 
 
-[jekyll-organization]: https://github.com/jekyll
