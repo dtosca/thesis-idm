@@ -22,8 +22,8 @@ title: IDM Thesis Fall 2022
 email: dt2290@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Diana's blog for their IDM thesis.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/thesis-idm" # the subpath of your site, e.g. /blog
+url: "https://dtosca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dtosca
 
 # Build settings
