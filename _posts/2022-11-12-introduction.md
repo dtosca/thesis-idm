@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction: Project brief"
 date:   2022-11-12 20:00:00 -0500
-categories: jekyll update
+comments: true
 ---
 
 Hello fellow sentient stardust time traveler! 
