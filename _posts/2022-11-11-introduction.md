@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction: Project brief"
-date:   2022-11-12 20:00:00 -0500
+date:   2022-11-11 20:00:00
 comments: true
 ---
 
